@@ -1,2 +1,2 @@
 # vms
- Visitor Management System
+ Visitors Management System
